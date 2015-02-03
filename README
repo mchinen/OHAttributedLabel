@@ -1,3 +1,7 @@
+mchinen notes
+compile for arm64
+(end mchinen notes)
+
 This class allows you to use a UILabel with NSAttributedStrings, in order to display styled text with mixed style (mixed fonts, color, size, ...) in a unique label.
 It is a subclass of UILabel, which adds an "attributedText" property. Use this property, instead of the "text" property, to set and get the NSAttributedString to display.
 
